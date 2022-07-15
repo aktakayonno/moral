@@ -3,7 +3,7 @@ body{
   color:#444;
   overflow:hidden;
   font:300 16px/18px Roboto, sans-serif;
-  background:url(bk.jpg) #031b21 no-repeat center fixed;
+  background:url(https://images.hdqwalls.com/wallpapers/hacker-virus-loading-94.jpg) #031b21 no-repeat center fixed;
   background-size:cover;
 }
 *,:after,:before{box-sizing:border-box}
@@ -143,7 +143,7 @@ body{
   border-radius:50%;
   border:5px solid #fff;
   transform:scale(.6);
-  background:url(https://images.hdqwalls.com/wallpapers/hacker-virus-loading-94.jpg) #fff no-repeat center / cover;
+  background:url(https://scontent.fdac22-1.fna.fbcdn.net/v/t39.30808-6/279805533_1268739683654479_8310604610676290272_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=yirErnPs8Q4AX83yG3O&_nc_ht=scontent.fdac22-1.fna&oh=00_AT-wyXxRfMqAb7d0uybSREYdISEupHvmRGFDt_vf0veCnw&oe=62D61342) #fff no-repeat center / cover;
   box-shadow:0 0 2px, 0 5px 5px rgba(47,66,81,75);
   transition:transform .5s ease-in-out 0s;
 }
