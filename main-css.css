@@ -35,7 +35,7 @@ body{
   backface-visibility:hidden;
   background:#d9d9d9;
   border-radius:3px;
-   box-shadow:1 2px 4px #626262;
+   box-shadow:1 2px 3px #626262;
   transform:rotateY(540deg);
   transition:all 0.5s ease-in-out 0s;
 }
@@ -141,7 +141,7 @@ body{
   overflow:hidden;
   position:relative;
   border-radius:50%;
-  border:5px solid #fff;
+  border:5px solid #d9d9d9;
   transform:scale(.6);
   background:url(279805533_1268739683654479_8310604610676290272_n.jpg) #fff no-repeat center / cover;
   box-shadow:0 0 2px, 0 5px 5px rgba(47,66,81,75);
@@ -169,7 +169,7 @@ body{
   margin-top:-15px;
   border-radius:50%;
   position:absolute;
-  color:#fff;
+  color:#626262;
   background:#F44336;
   -webkit-user-select:none;
   box-shadow:0 4px 4px #333;
