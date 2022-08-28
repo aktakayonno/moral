@@ -1,9 +1,9 @@
 body{
   margin:0;
-  color:#444;
+  color:;
   overflow:hidden;
   font:300 16px/18px Roboto, sans-serif;
-  background:url(rsz_screenshot_1.png) #031b21 no-repeat center fixed;
+  background:url(bng.jpg) #031b21 no-repeat center fixed;
   background-size:cover;
 }
 *,:after,:before{box-sizing:border-box}
@@ -33,9 +33,9 @@ body{
   padding:30px;
   position:relative;
   backface-visibility:hidden;
-  background:#fff;
+  background:#d9d9d9;
   border-radius:3px;
-   box-shadow:0 1px 2px #aaa;
+   box-shadow:1 2px 4px #626262;
   transform:rotateY(540deg);
   transition:all 0.5s ease-in-out 0s;
 }
@@ -48,9 +48,9 @@ body{
   padding:1.5rem;
   margin:0 1rem 1rem;
   border-radius:3px;
-   box-shadow:0 1px 2px #aaa;
+   box-shadow:1 2px 4px #626262;
   line-height:24px;
-  background:#fff;
+  background:#d9d9d9;
   content:attr(data-text);
   backface-visibility:visible;
   transform:rotateY(-540deg) scale(1);
