@@ -178,7 +178,8 @@ body{
 .profile-card-wrap .check:checked + .toggle{
   top:98%;
   color:#fff;
-  background:#fff;
+  background:#850E35;
+  
   transform:rotate(135deg);
   box-shadow:1px -2px 2px #333;
   transition: all 0.3s ease-in-out 0s;
