@@ -34,7 +34,7 @@ body{
   position:relative;
   backface-visibility:hidden;
   background:#d9d9d9;
-  border-radius:3px;
+  border-radius:25px;
    box-shadow:1 2px 3px #626262;
   transform:rotateY(540deg);
   transition:all 0.5s ease-in-out 0s;
@@ -47,7 +47,7 @@ body{
   font-size:18px;
   padding:1.5rem;
   margin:0 1rem 1rem;
-  border-radius:3px;
+  border-radius:25px;
    box-shadow:1 2px 4px #626262;
   line-height:24px;
   background:#d9d9d9;
@@ -95,7 +95,7 @@ body{
   text-align:center;
   position:absolute;
   border-radius:50%;
-  border:1px solid #444;
+  border:2px solid #444;
   box-shadow:0 3px 4px rgba(47,66,81,.75);
   transition:all .3s cubic-bezier(0.680, 1.550, 0.265, 1);
 }
