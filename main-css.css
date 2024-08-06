@@ -65,8 +65,9 @@ body{
 .profile-card-wrap .content p{
   margin:0;
   max-width:190px;
-  line-height:24px;
+  line-height:20px;
   text-align:center;
+  margin-bottom:5px;
 }
 .profile-card-wrap .link-info{
   top:50%;
